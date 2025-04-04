@@ -1,0 +1,21 @@
+# Ignore Windows system directories
+AppData/
+Application Data/
+Temp/
+History/
+Microsoft/
+inetcache/
+Temporary Internet Files/
+
+# Python cache and env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
